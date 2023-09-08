@@ -10,4 +10,5 @@ The mobile application interface is user-friendly, with intuitive indicators and
 
 The product's enclosure was meticulously crafted using SolidWorks software, while the PCB design was executed using Altium software. This comprehensive approach to design and realization underscores the professionalism and attention to detail that went into the development of our Smart Bluetooth Multiplug.
 
+![IMG-20230908-WA0010](https://github.com/RajanaKavinda/Smart-Bluetooth-Multiplug-EN1190/assets/91953272/dcfe8b04-8fac-47a8-9c62-1bdc68853da2)
 
